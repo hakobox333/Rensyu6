@@ -84,17 +84,3 @@ footer p{
     font-size: small;
 }
 
-/*スマホに合わせるぞ！*/
-@media screen {
-
-   .header a{
-    font-size: 2em;
-   }
-
-   .header li a{
-    font-size: 0.875rem;
-   }
-
-   
-    
-}
