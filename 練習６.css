@@ -50,6 +50,7 @@ main{
 }
 
 .text-box{
+    width: 50%;
     margin: auto 40px;
 }
 
